@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.phone{
+    padding-top: 50px;
+    height: 700px;
+    float: right;
+    margin:10px;
+
+}
+body{
+    background-color: #fafafa;
+
+}
+.container{margin-top: 20px;}
+.right-col{background: white; border: 1px solid #e6e6e6; width: 400px;margin: 20px;padding: 20px;}
+.logo{margin: 15px auto;width: 300px;}
+/*.logo-fb{width: 30px;margin-right: 5px;}*/
+button img{ height: 20px;padding: 0 18px 2px;}
+
+.or{font-size: 15px;color: #8b8b8b;font-weight: 600;}
+/*form{margin-bottom: 10px;}*/
+.form-gp{margin-bottom: 15px;}
+.form-control{background: #fafafa;}
